@@ -3,6 +3,9 @@
 High Performance Machine Learning, New York University
 
 ## Overview
+
+Raw Training Data can be viewed in the experiments directory as Experiment_[i].out where: 
+
 Experiment 1 = Pre-Norm DRCT 4x Upscaling on DIV2K  
 Experiment 2 = Post-Norm DRCT 4x Upscaling on DIV2K  
 Experiment 3 = Post-Norm + Cos + DRCT 4x Upscaling on DIV2K  
