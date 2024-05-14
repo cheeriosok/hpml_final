@@ -3,9 +3,10 @@
 High Performance Machine Learning, New York University
 
 ## Overview
-Experiment 1 = Pre-Norm DRCT 4x Upscaling on DIV2K 
-Experiment 2 = Post-Norm DRCT 4x Upscaling on DIV2K 
-Experiment 3 = Post-Norm + Cos + DRCT 4x Upscaling on DIV2K 
+Experiment 1 = Pre-Norm DRCT 4x Upscaling on DIV2K  
+Experiment 2 = Post-Norm DRCT 4x Upscaling on DIV2K  
+Experiment 3 = Post-Norm + Cos + DRCT 4x Upscaling on DIV2K  
+
 ![download](https://github.com/oscarabreu/hpml_final/assets/99779654/c7314bc3-740c-4b33-b589-e0d13f256655)
 
 ## Environment
